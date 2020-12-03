@@ -1,2 +1,2 @@
-# FinalProject_DA
+# FinalProject_DataAnalytics
 Recommendation System for Skin care products
