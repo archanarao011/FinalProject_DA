@@ -1,7 +1,8 @@
 # FinalProject_DataAnalytics
 Recommendation System for Skin care products
 
-In this project I have tried to do a highly but simple and personalized recommendation of a product for skin care and cosmetics based on 
+In this project I have tried to do a highly but simple and personalized recommendation of a product for skin care and cosmetics based on
+
 1. user feature similiarities
 
 2.Chemical composition of ingredients 
