@@ -12,3 +12,5 @@ A Dash model/ Flasp App is developed for the interface of displaying the recomme
 Also attempted to predict if a product will get 5-star rating based on its ingredients?¶
 
 The data is scraped from the Sephora website. 
+
+Herewith the link for the presentation : https://docs.google.com/presentation/d/1dvoizSzqTutnUWeg1FK8t8BTQ14NMN1Uruxvm41swfY/edit?usp=sharing
