@@ -9,7 +9,11 @@ In this project I have tried to do a highly but simple and personalized recommen
 
 A Dash model/ Flasp App is developed for the interface of displaying the recommendations. Please run the file front_end.ipynb for that.
 
+A peep into the ingredients of the products covering the following questions :
+
 Also attempted to predict if a product will get 5-star rating based on its ingredients?¶
+
+Is it really possible to distinguish between the product types based on their ingredients?
 
 The data is scraped from the Sephora website. 
 
